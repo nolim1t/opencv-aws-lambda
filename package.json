@@ -1,0 +1,17 @@
+{
+  "name": "lambdatestfunction",
+  "version": "0.0.1",
+  "description": "This is a test AWS Lambda function",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.0.0-rc.1",
+    "aws-sdk": "^2.2.45",
+    "opencv": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bt@perceptionz.net",
+  "license": "MIT"
+}
